@@ -1,0 +1,1 @@
+This is just a simple DNS server for educational purposes only. It has terrible performance and is not suitable for production, not even for personal usage. It also has many lacking features such as eDNS and truncated DNS.
